@@ -1,0 +1,2 @@
+obj-$(CONFIG_CSE536) += cse5361.o 
+cse5361-objs := ./linux-3.5.0/net/cse536/sendraw.o \

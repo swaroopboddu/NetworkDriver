@@ -1,0 +1,1 @@
+cmd_drivers/char/cse536/cse5361.ko := ld -r -m elf_x86_64 -T /home/swaroop/cse536/linux-3.5.0/scripts/module-common.lds --build-id  -o drivers/char/cse536/cse5361.ko drivers/char/cse536/cse5361.o drivers/char/cse536/cse5361.mod.o
